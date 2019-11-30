@@ -1,0 +1,5 @@
+temp
+/*.png
+*.pyc
+temp/*
+node_modules
